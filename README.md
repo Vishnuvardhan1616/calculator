@@ -38,11 +38,12 @@ calculator/
 └── README.md           # This file
 ```
 ## Customization
-
+```
 1.Styling:
   The project uses CSS with gradient backgrounds and hover effects. Feel free to modify App.css and index.css to match your desired color scheme and layout.
 2.Functionality:
   The calculator uses JavaScript's eval function for evaluating expressions. For production use, consider replacing this with a safer alternative or custom parser.
+```
 
 ## Contributions
 Contributions are welcome! If you have ideas for new features or improvements, please fork the repository and submit a pull request.
